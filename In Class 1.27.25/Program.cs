@@ -13,6 +13,7 @@ namespace In_Class_1._27._25
             Baseball myBaseball = new Baseball();
             myBaseball.Price = 153.85; 
             Console.WriteLine("Price of a Red's Ticket is " + myBaseball.Price);
+            Console.WriteLine("Maxwell Miller");
         }
     }
 }
